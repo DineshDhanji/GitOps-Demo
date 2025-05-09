@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: gitops-demo
-          image: dineshdhanjee/gitops-demo-app:v1
+          image: dineshdhanjee/gitops-demo-app:v4
           ports:
             - containerPort: 3000
